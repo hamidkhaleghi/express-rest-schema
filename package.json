@@ -1,0 +1,28 @@
+{
+  "name": "express-rest-schema",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidkhaleghi/express-rest-schema.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "rest-api",
+    "schema"
+  ],
+  "author": "Hamid Khaleghi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hamidkhaleghi/express-rest-schema/issues"
+  },
+  "homepage": "https://github.com/hamidkhaleghi/express-rest-schema#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
