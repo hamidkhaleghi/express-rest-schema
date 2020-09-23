@@ -25,7 +25,7 @@ router.get('/user/1', (req, res) => {
                 name: 'John Doe'
             },
             message: 'All is well!!!',
-            errors: throw new Error('optional error object')
+            error: throw new Error('optional error object')
         }
     )
 })
