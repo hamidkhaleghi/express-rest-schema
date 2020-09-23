@@ -1,15 +1,16 @@
 {
   "name": "@hamidkhaleghi/express-rest-schema",
   "version": "0.0.2",
-  "description": "",
+  "description": "a better output for your express rest-apis",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hamidkhaleghi/express-rest-schema.git"
   },
   "keywords": [
-    "express",
     "node",
+    "express",
+    "api",
     "rest-api",
     "schema"
   ],
