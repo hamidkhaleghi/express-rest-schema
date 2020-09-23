@@ -1,5 +1,5 @@
 {
-  "name": "@hamidkhaleghi/express-rest-schema",
+  "name": "express-rest-schema",
   "version": "0.0.21",
   "description": "a better output for your express rest-apis",
   "main": "index.js",
