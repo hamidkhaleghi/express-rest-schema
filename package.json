@@ -1,5 +1,5 @@
 {
-  "name": "express-rest-schema",
+  "name": "@hamidkhaleghi/express-rest-schema",
   "version": "0.0.2",
   "description": "",
   "main": "index.js",
